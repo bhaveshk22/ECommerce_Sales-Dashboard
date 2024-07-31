@@ -5,6 +5,9 @@
 
 This repository contains a dynamic E-commerce Sales Dashboard created using Microsoft Power BI. The dashboard provides comprehensive insights into sales performance, including Year-To-Date (YTD) metrics, category sales, regional distribution, and more.
 
+## Screenshots
+
+![screenshot](https://github.com/user-attachments/assets/7416946b-207b-409a-857c-4e6fedf2486c)
 
 
 ## Dashboard Features
